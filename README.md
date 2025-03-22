@@ -19,7 +19,11 @@ Female SCART Connectors (specifically, [KYCON_SCART_K-SCARTX-022_Horizontal](htt
 
 Male SCART Connectors. No major suppliers carry SCART connectors anymore as far as I'm aware, you can find listings on Aliexpress [here](https://www.aliexpress.us/item/3256804790162926.html?). The outer shell cannot be soldered to, so it will not clamp to the connector very well, nor will it continue the shell's trace along the chain.
 
-Installation should be straight forward.
+# Installation
+
+Installation should be straight forward for the female connectors. The male connectors have a bigger gap than 1.6mm between their top and bottom pins, so the PCB may wiggle between them, and is quite hard to solder for this reason. Make sure to check that youre soldering it parallel to the PCB and that there is no angle (it will still work if there is, but it will be a little ugly).
+
+The even side of the male connector is the side without the shell jutting out.
 
 # Info
 
