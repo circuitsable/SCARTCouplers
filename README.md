@@ -51,4 +51,18 @@ The audio signal on a SCART cable is perfectly fine to tap into and use for more
 
 # PCB Images & Schematics
 
-*images*
+![Female to Female & Male to Male Schematics](images/ftf_mtm.jpg)
+
+![Male to Female & Female to Male Schematics](images/mtf_ftm.jpg)
+
+![Female to Female PCB front](images/ftf_front.jpg)
+
+![Female to Female PCB back](images/ftf_back.jpg)
+
+![Male to Male PCB front](images/mtm_front.jpg)
+
+![Male to Male PCB back](images/mtm_back.jpg)
+
+![Male to Female & Female to Male PCB front](images/mtf_ftm_front.jpg)
+
+![Male to Female & Female to Male PCB back](images/mtf_ftm_back.jpg)
