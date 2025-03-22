@@ -47,7 +47,7 @@ Termination (parallel or series) is only done at signal transmitters (e.g. game 
 
 ## Audio
 
-The audio signal on a SCART cable is perfectly fine to tap into and use for more common audio connectors, such as a 3.5mm audio jack or RCA/phono jacks. The signal wont be too loud or anything like that
+The audio signal on a SCART cable is perfectly fine to tap into and use for more common audio connectors, such as a 3.5mm audio jack or RCA/phono jacks. The signal wont be too loud or anything like that.
 
 # PCB Images & Schematics
 
