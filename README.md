@@ -1,7 +1,7 @@
 # SCARTCouplers
 This repo is a collection of SCART (EuroSCART) Gender changers/couplers, schematics, as well as some information I found difficult to find/understand when dealing with the SCART standard.
 
-*completed pcb images*
+![Assembled PCBS](images/assembled.jpg)
 
 # Why/About
 
